@@ -27,6 +27,9 @@
                 <mxCell id="8" value="&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
                     <mxGeometry x="430" y="130" width="60" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="9" value="Relacion one to one bidireccional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="40" width="150" height="50" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
